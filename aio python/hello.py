@@ -1,3 +1,4 @@
+import math
 # This is a python comment
 
 # This variable contains an interger.
@@ -15,3 +16,4 @@ extended_price = quantity * unit_price
 # Show the results
 
 print(extended_price)
+print(math.sqrt(81))
