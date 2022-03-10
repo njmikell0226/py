@@ -1,4 +1,4 @@
-human_years = int(input('Enter age of dog (in human years): '))
+hman_years = int(input('Enter age of dog (in human years): '))
 print()
 
 dog_years = 7 * human_years
