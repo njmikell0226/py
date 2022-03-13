@@ -1,6 +1,6 @@
 
 # collects users name
-user_name = 'Michael Little'#input()
+user_name = input()
 
 # splits entered name into seperate list items
 individual_names = user_name.split()
